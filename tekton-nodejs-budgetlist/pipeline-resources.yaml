@@ -7,7 +7,7 @@ spec:
   type: image
   params:
   - name: url
-    value: image-registry.openshift-image-registry.svc:5000/catalyst1/budgetlist
+    value: image-registry.openshift-image-registry.svc:5000/rhte-1/budgetlist
 ---
 apiVersion: tekton.dev/v1alpha1
 kind: PipelineResource
