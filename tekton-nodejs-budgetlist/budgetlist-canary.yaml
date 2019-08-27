@@ -33,7 +33,7 @@ spec:
         deploymentconfig: budgetlist-canary
     spec:
       containers:
-      - image: image-registry.openshift-image-registry.svc:5000/catalyst1/budgetlist
+      - image: image-registry.openshift-image-registry.svc:5000/rhte-1/budgetlist
         imagePullPolicy: Always
         name: budgetlist
         ports:
