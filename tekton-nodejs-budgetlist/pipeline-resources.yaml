@@ -17,4 +17,4 @@ spec:
   type: git
   params:
   - name: url
-    value: https://github.com/VeerMuchandi/nodejs-todo-app
+    value: https://github.com/bmicklea/budgetlist
